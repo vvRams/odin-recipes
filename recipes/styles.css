@@ -16,3 +16,24 @@ img {
     color: hsl(34, 93%, 52%);
     font-family: "Brush Script MT", "Lucida Handwriting", Papyrus, serif;
 }
+
+.padthai {
+    color: green;
+    font-family: sans-serif;
+}
+
+.padthai p {
+    font-style: italic;
+    font-size: 10px;
+}
+
+.padthai h2 {
+    font-size: 50px;
+    font-weight: 200;
+}
+
+.padthai .even {
+    font-family: "Times New Roman", serif;
+    font-size: 15px;
+    color: hsl(55, 78%, 78%);
+}
