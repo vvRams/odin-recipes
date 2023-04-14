@@ -11,3 +11,8 @@ img {
     width: auto;
     align-items: center;
 }
+
+.mango {
+    color: hsl(34, 93%, 52%);
+    font-family: "Brush Script MT", "Lucida Handwriting", Papyrus, serif;
+}
