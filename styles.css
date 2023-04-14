@@ -1,0 +1,18 @@
+html {
+    background-color: hsl(273, 49%, 19%);
+    text-align: right;
+}
+
+h1{
+    color: white;
+    font-family: 'Lucida Console', Courier, monospace;
+    font-size: 50px;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: white
+}
