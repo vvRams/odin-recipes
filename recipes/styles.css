@@ -1,3 +1,13 @@
 html {
-    background-color: blueviolet;
+    background-color: hsl(273, 49%, 19%);
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    width: auto;
+    align-items: center;
 }
