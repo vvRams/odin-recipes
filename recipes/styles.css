@@ -37,3 +37,20 @@ img {
     font-size: 15px;
     color: hsl(55, 78%, 78%);
 }
+
+.tunamelt {
+    font-size: 5px;
+}
+
+.tunamelt h1,
+.tunamelt h2,
+.tunamelt h3 {
+    font-size: 50px;
+    font-weight: 100;
+    text-align: right;
+}
+
+.tunamelt img {
+    height: 1000px;
+    width: 1500px;
+}
